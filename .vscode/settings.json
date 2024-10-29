@@ -4,5 +4,16 @@
     "azureFunctions.pythonVenv": ".venv",
     "azureFunctions.projectLanguage": "Python",
     "azureFunctions.projectRuntime": "~4",
-    "debug.internalConsoleOptions": "neverOpen"
+    "debug.internalConsoleOptions": "neverOpen",
+    "cSpell.words": [
+        "Alella",
+        "Caicedo",
+        "chelseafc",
+        "Corozo",
+        "Cucurella",
+        "FCDB",
+        "getplayers",
+        "Santo",
+        "Saseta"
+    ]
 }
